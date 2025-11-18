@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>BLOOD</title>
+<body bgcolor="skyblue">
+<h1><center>BLOOD🩸</h1>
+<h1> Near By Hospital:🏥</h1>
+<img src="C:\Users\Student\Desktop\Pravin WEB\blood.png"/>
+<p1><li>Need Blood From Hospital</li>
+Click the above icon and fill the detalis☝️</p1>
+<h1>Blood Camp:🎪</h1>
+<img src="C:\Users\Student\Desktop\Pravin WEB\blood bank.jpg"width=150",height="700"/>
+<p1> <li>If You are willing</li>
+Click the above icon and fill the deatils to donate blood ☝️</p1>
+<h1>By Ambulance:🚑</h1>
+<img src="E:\images\ambulance.jpg"width="150",height="700"/>
+<p1><li>For Any Urgent</li>
+Click the ablove icon and fill the details☝️</p1>
+<h3><center>FOR MORE INFORMATION CLICK THE BELOW LINK</h3>
+<a href="https://www.lionsbloodbankerode.com">blood.Bank</a>
+
+</body>
+</html>
+
