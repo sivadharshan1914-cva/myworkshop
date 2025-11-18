@@ -2,7 +2,7 @@
 <head>
 <title>BLOOD</title>
 <body bgcolor="skyblue">
-<h1><center>BLOOD🩸</h1>
+<h1><center>BLOOD</h1>
 <h1> Near By Hospital:🏥</h1>
 <img src="C:\Users\Student\Desktop\Pravin WEB\blood.png"/>
 <p1><li>Need Blood From Hospital</li>
